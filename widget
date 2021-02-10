@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/51d053d72/ghent/" data-label_1="GHENT" data-label_2="WEATHER" data-icons="Climacons Animated" data-days="5" data-theme="original" data-basecolor="#dfe8e1" data-highcolor="#dfcacc" data-lowcolor="#c3cede" data-suncolor="#f9f1e2" data-cloudcolor="#e9f1f6" data-cloudfill="#e9f1f6" data-raincolor="#caccd2" >GHENT WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
